@@ -1,0 +1,1862 @@
+[
+    {
+        "id": 38169,
+        "title": "New Year in Andalucia 4 Star ",
+        "date": "2019-12-28",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Spain"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>Please note that for all tours including the Alhambra, unfortunately entry cannot be guaranteed to anyone until 30 days prior to date of visit. Where as we will do our best to get tickets for entry, this cannot be guaranteed at time of booking.</p>\r\n\r\n<p>Please note according to date of visit, access to monuments inside the Alhambra complex may vary</p>\r\n",
+        "product_id": 1157,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 999,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 52,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 1,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38131,
+        "title": "New Year in Tuscany   ",
+        "date": "2019-12-28",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Excursions on this trip will involve walking in cities and towns, sometimes on hilly and uneven terrain.</p>\r\n\r\n<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1089,
+        "activity_level": 3,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 1099,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 31,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays",
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38132,
+        "title": "New Year in Tuscany (from Belfast)",
+        "date": "2019-12-28",
+        "duration": 7,
+        "currency": "STG",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Excursions on this trip will involve walking in cities and towns, sometimes on hilly and uneven terrain.</p>\r\n\r\n<p>This holiday includes transfers between Belfast (Chichester Street) and Dublin airport in the package price. Should there be insufficient demand on your particular departure date to operate a private coach transfer, the holiday will still go ahead but we will reimburse &pound;25 per person at least 2 weeks prior to your departure date to cover the cost of making your own way to Dublin airport. Should you wish to cancel your booking as a result of this change, the standard cancellation conditions will apply.</p>\r\n\r\n<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1089,
+        "activity_level": 3,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 1029,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 10,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "New Year's Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38146,
+        "title": "New Year in Lake Garda ",
+        "date": "2019-12-27",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 751,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 979,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 34,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38147,
+        "title": "New Year in Lake Garda (from Belfast)",
+        "date": "2019-12-27",
+        "duration": 7,
+        "currency": "STG",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 751,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 929,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 12,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "New Year's Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38082,
+        "title": "New Year Getaway to the Algarve 3 Star Superior",
+        "date": "2019-12-26",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Portugal"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 733,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 699,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 10,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38084,
+        "title": "New Year Getaway to the Algarve 4 Star ",
+        "date": "2019-12-26",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Portugal"
+        ],
+        "status": 2,
+        "note": "<p><br />\r\nPlease note that due to the extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 733,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 799,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 24,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38090,
+        "title": "New Year Getaway to the Algarve 5 Star ",
+        "date": "2019-12-26",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Portugal"
+        ],
+        "status": 2,
+        "note": "<p>Please note that some excursions on this holiday will involve walking on hilly terrain and uneven surfaces.</p>\r\n\r\n<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 733,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 949,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 7,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 39011,
+        "title": "Christmas Getaway to Greece - In the Footsteps of Alexander the Great",
+        "date": "2019-12-22",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Greece"
+        ],
+        "status": 2,
+        "note": "",
+        "product_id": 1984,
+        "activity_level": 3,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 91,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 49,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Destinations",
+            "Christmas Holidays",
+            "Sun Destinations",
+            "Historical Tours"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37728,
+        "title": "Rhine Christmas River Cruise (Cologne - Cologne)",
+        "date": "2019-12-22",
+        "duration": 6,
+        "currency": "EUR",
+        "countries": [
+            "Germany",
+            "France"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1736,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 91,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 31,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Cruise Holidays",
+            "River Journey Holidays",
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38157,
+        "title": "Christmas in Lake Garda ",
+        "date": "2019-12-22",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 548,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 899,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 39,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38153,
+        "title": "Christmas in Austria",
+        "date": "2019-12-22",
+        "duration": 5,
+        "currency": "EUR",
+        "countries": [
+            "Austria"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>Please be advised that some twin rooms are German twins &ndash; 1 double bed with 2 mattresses (not two separate beds). A couple of rooms have a sofa which can be used as an extra bed, on request basis.</p>\r\n",
+        "product_id": 1559,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 1299,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 43,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38343,
+        "title": "Christmas in Beijing, Xi'an & Shanghai (from Belfast) - 4 star",
+        "date": "2019-12-22",
+        "duration": 12,
+        "currency": "STG",
+        "countries": [
+            "China"
+        ],
+        "status": 2,
+        "note": "<p>This holiday includes transfers between Belfast (Chichester Street) and Dublin airport in the package price. Should there be insufficient demand on your particular departure date to operate a private coach transfer, the holiday will still go ahead but we will reimburse &pound;25 per person at least 2 weeks prior to your departure date to cover the cost of making your own way to Dublin airport. Should you wish to cancel your booking as a result of this change, the standard cancellation conditions will apply.</p>\r\n\r\n<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p><br />\r\n<br />\r\n<br />\r\n&nbsp;</p>\r\n",
+        "product_id": 1553,
+        "activity_level": 4,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 332,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 1,
+            "late_baggage_fee": 0
+        },
+        "availability": 8,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Long Haul Holidays",
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38342,
+        "title": "Christmas in Beijing, Xi'an & Shanghai - 4 star",
+        "date": "2019-12-22",
+        "duration": 12,
+        "currency": "EUR",
+        "countries": [
+            "China"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1553,
+        "activity_level": 4,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 332,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 1,
+            "late_baggage_fee": 0
+        },
+        "availability": 33,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Long Haul Holidays",
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38168,
+        "title": "Christmas in Andalucia 4 Star ",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Spain"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>Please note that for all tours including the Alhambra, unfortunately entry cannot be guaranteed to anyone until 30 days prior to date of visit. Where as we will do our best to get tickets for entry, this cannot be guaranteed at time of booking.</p>\r\n\r\n<p>Please note according to date of visit, access to monuments inside the Alhambra complex may vary</p>\r\n",
+        "product_id": 1156,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 969,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 45,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 1,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38160,
+        "title": "Christmas in Tenerife",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Spain"
+        ],
+        "status": 9,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1672,
+        "activity_level": 2,
+        "status_description": "Off-Sale Flight",
+        "pricing": {
+            "price": 91,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 47,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38163,
+        "title": "Christmas in Tuscany Solo Friendly",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Excursions on this trip will involve walking in cities and towns, sometimes on hilly and uneven terrain</p>\r\n\r\n<p>Please note that due to the extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1674,
+        "activity_level": 0,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 899,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 0,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38028,
+        "title": "Christmas Getaway to the Algarve 4 Star",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Portugal"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>Please note that some excursions on this holiday will involve walking on hilly terrain and uneven surfaces.</p>\r\n",
+        "product_id": 467,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 799,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 43,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38129,
+        "title": "Christmas in Tuscany",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Excursions on this trip will involve walking in cities and towns, sometimes on hilly and uneven terrain.</p>\r\n\r\n<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1075,
+        "activity_level": 3,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 899,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 65,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38130,
+        "title": "Christmas in Tuscany (from Belfast)",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "STG",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Excursions on this trip will involve walking in cities and towns, sometimes on hilly and uneven terrain.</p>\r\n\r\n<p>This holiday includes transfers between Belfast (Chichester Street) and Dublin airport in the package price. Should there be insufficient demand on your particular departure date to operate a private coach transfer, the holiday will still go ahead but we will reimburse &pound;25 per person at least 2 weeks prior to your departure date to cover the cost of making your own way to Dublin airport. Should you wish to cancel your booking as a result of this change, the standard cancellation conditions will apply.</p>\r\n\r\n<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1075,
+        "activity_level": 3,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 879,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 10,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38210,
+        "title": "Christmas Getaway to Malta & Gozo",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Malta"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 173,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 91,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 34,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38212,
+        "title": "Christmas Getaway to Malta & Gozo (from Belfast)",
+        "date": "2019-12-21",
+        "duration": 7,
+        "currency": "STG",
+        "countries": [
+            "Malta"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p><br />\r\nThis holiday includes transfers between Belfast (Chichester Street) and Dublin airport in the package price. Should there be insufficient demand on your particular departure date to operate a private coach transfer, the holiday will still go ahead but we will reimburse &pound;25 per person at least 2 weeks prior to your departure date to cover the cost of making your own way to Dublin airport. Should you wish to cancel your booking as a result of this change, the standard cancellation conditions will apply.</p>\r\n",
+        "product_id": 173,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 1099,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 10,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38155,
+        "title": "Christmas in Lake Garda (from Belfast)",
+        "date": "2019-12-20",
+        "duration": 7,
+        "currency": "STG",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 548,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 869,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 12,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "New Year's Holidays",
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38156,
+        "title": "Christmas in Lake Garda Solo Friendly",
+        "date": "2019-12-20",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 532,
+        "activity_level": 0,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 969,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 26,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Year's Holidays",
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37985,
+        "title": "Christmas Getaway to the Algarve 4 Star",
+        "date": "2019-12-19",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Portugal"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>Please note that some excursions on this holiday will involve walking on hilly terrain and uneven surfaces.</p>\r\n",
+        "product_id": 467,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 679,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 24,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38011,
+        "title": "Christmas Getaway to the Algarve 5 Star",
+        "date": "2019-12-19",
+        "duration": 7,
+        "currency": "EUR",
+        "countries": [
+            "Portugal"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>Please note that some excursions on this holiday will involve walking on hilly terrain and uneven surfaces.</p>\r\n",
+        "product_id": 467,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 869,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 24,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37092,
+        "title": "Krakow Christmas Markets",
+        "date": "2019-12-12",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Poland"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change</p>\r\n\r\n<p>Optional Excursion - Please note Auschwitz maybe an early start at 5:30am pick up.</p>\r\n\r\n<p>Only <strong>one tour</strong> can be pre booked Salt mines or Auschwitz on free day</p>\r\n",
+        "product_id": 1757,
+        "activity_level": 0,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 369,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 49,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 35425,
+        "title": "Bruges Christmas Markets (from Belfast)",
+        "date": "2019-12-10",
+        "duration": 3,
+        "currency": "STG",
+        "countries": [
+            "Belgium"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1120,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 519,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 7,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 35424,
+        "title": "Bruges Christmas Markets ",
+        "date": "2019-12-10",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Belgium"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1120,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 469,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 22,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38970,
+        "title": "Vienna Christmas Markets",
+        "date": "2019-12-10",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Austria"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 174,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 459,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 49,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37680,
+        "title": "Berlin Christmas Markets",
+        "date": "2019-12-08",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Germany"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 125,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 419,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 47,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37709,
+        "title": "Prague Christmas Markets",
+        "date": "2019-12-07",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Czech Republic"
+        ],
+        "status": 2,
+        "note": "<p><br />\r\nPlease note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 134,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 329,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 47,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37095,
+        "title": "Gdansk Christmas Markets ",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Poland"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1753,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 399,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 45,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "New Destinations",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37693,
+        "title": "Transylvania Christmas Markets",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Romania"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to the extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1738,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 499,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 22,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "New Destinations",
+            "Christmas Market Holidays",
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38069,
+        "title": "Riga city break including Christmas Markets - 3 nights",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Latvia"
+        ],
+        "status": 2,
+        "note": "<p><br />\r\nPlease note that due to the extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1231,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 399,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 30,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38218,
+        "title": "Iceland & the Northern Lights 3 Star ",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Iceland"
+        ],
+        "status": 9,
+        "note": null,
+        "product_id": 526,
+        "activity_level": 3,
+        "status_description": "Off-Sale Flight",
+        "pricing": {
+            "price": 789,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 9,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38219,
+        "title": "Iceland & the Northern Lights 4 Star",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Iceland"
+        ],
+        "status": 9,
+        "note": "<p>Please note an extra fee applies for carry-on bag with WOW, only one small item (max. of 42x32x25cm / 17x13x10in) such as a small bag/backpack, laptop or a camera bag included in fare.</p>\r\n\r\n<p>IMPORTANT: The excursion to see Northern Lights may be cancelled or rescheduled locally due to unsuitable weather conditions.&nbsp; No refunds will be given in this event. The Northern lights are a natural phenomenon and sightings can never be guaranteed. Every effort will be made to schedule the excursion for a suitable evening depending on the current Aurora forecasts</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "product_id": 526,
+        "activity_level": 3,
+        "status_description": "Off-Sale Flight",
+        "pricing": {
+            "price": 959,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 13,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38220,
+        "title": "Iceland & the Northern Lights 3 Star (from Belfast)",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "STG",
+        "countries": [
+            "Iceland"
+        ],
+        "status": 9,
+        "note": "",
+        "product_id": 526,
+        "activity_level": 3,
+        "status_description": "Off-Sale Flight",
+        "pricing": {
+            "price": 669,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 11,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Short Breaks",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38221,
+        "title": "Iceland & the Northern Lights 4 Star (from Belfast)",
+        "date": "2019-12-06",
+        "duration": 3,
+        "currency": "STG",
+        "countries": [
+            "Iceland"
+        ],
+        "status": 9,
+        "note": "<p>IMPORTANT: The excursion to see Northern Lights may be cancelled or rescheduled locally due to unsuitable weather conditions. &nbsp;No refunds will be given in this event. The Northern lights are a natural phenomenon and sightings can never be guaranteed. Every effort will be made to schedule the excursion for a suitable evening depending on the current Aurora forecasts.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "product_id": 526,
+        "activity_level": 3,
+        "status_description": "Off-Sale Flight",
+        "pricing": {
+            "price": 799,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 12,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Short Breaks",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37690,
+        "title": "Prague Christmas Markets",
+        "date": "2019-12-04",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Czech Republic"
+        ],
+        "status": 2,
+        "note": "<p><br />\r\nPlease note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 134,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 329,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 50,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37692,
+        "title": "Cologne Christmas Markets",
+        "date": "2019-12-04",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Germany"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to the extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 136,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 379,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 39,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38104,
+        "title": "Gdansk City Break Christmas Markets (from Belfast)",
+        "date": "2019-12-04",
+        "duration": 3,
+        "currency": "STG",
+        "countries": [
+            "Poland"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.<br />\r\n&nbsp;</p>\r\n",
+        "product_id": 1753,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 329,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 44,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "Christmas Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37707,
+        "title": "Vienna Christmas Markets",
+        "date": "2019-12-03",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Austria"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 174,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 459,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 26,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37708,
+        "title": "Vienna Christmas Markets (from Belfast)",
+        "date": "2019-12-03",
+        "duration": 3,
+        "currency": "STG",
+        "countries": [
+            "Austria"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>This holiday includes transfers between Belfast (Chichester Street) and Dublin airport in the package price. Should there be insufficient demand on your particular departure date to operate a private coach transfer, the holiday will still go ahead but we will reimburse &pound;25 per person at least 2 weeks prior to your departure date to cover the cost of making your own way to Dublin airport. Should you wish to cancel your booking as a result of this change, the standard cancellation conditions will apply.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "product_id": 174,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 479,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 10,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38077,
+        "title": "Lake Garda,Venice & The Bolzano Christmas Markets ",
+        "date": "2019-12-02",
+        "duration": 5,
+        "currency": "EUR",
+        "countries": [
+            "Italy"
+        ],
+        "status": 2,
+        "note": "<p><br />\r\nPlease note that due to the extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 120,
+        "activity_level": 2,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 569,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 51,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "Sun Destinations"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 38665,
+        "title": "Budapest Christmas Markets ",
+        "date": "2019-12-02",
+        "duration": 4,
+        "currency": "EUR",
+        "countries": [
+            "Hungary"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 1684,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 469,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 49,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Market Holidays"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37073,
+        "title": "Krakow Christmas Markets 4 Nights",
+        "date": "2019-12-01",
+        "duration": 4,
+        "currency": "EUR",
+        "countries": [
+            "Poland"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change</p>\r\n\r\n<p>Optional Excursion - Please note Auschwitz maybe an early start at 5:30am pick up.</p>\r\n\r\n<p>Only <strong>one tour</strong> can be pre booked Salt mines or Auschwitz on free day</p>\r\n",
+        "product_id": 350,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 419,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 14,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "Christmas Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37074,
+        "title": "Krakow Christmas Markets (from Belfast) 4 Nights",
+        "date": "2019-12-01",
+        "duration": 4,
+        "currency": "STG",
+        "countries": [
+            "Poland"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change</p>\r\n\r\n<p>Optional Excursion - Please note Auschwitz maybe an early start at 5:30am pick up.</p>\r\n\r\n<p>Only <strong>one tour</strong> can be pre booked Salt mines or Auschwitz on free day</p>\r\n",
+        "product_id": 350,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 449,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 15,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Short Breaks",
+            "Christmas Market Holidays",
+            "Christmas Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37677,
+        "title": "Berlin Christmas Markets",
+        "date": "2019-12-01",
+        "duration": 3,
+        "currency": "EUR",
+        "countries": [
+            "Germany"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n",
+        "product_id": 125,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 429,
+            "price_reduced": 0,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 29,
+        "departure": {
+            "country_code": "IE",
+            "city": "Dublin"
+        },
+        "categories": [
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 0,
+            "visa": 0
+        }
+    },
+    {
+        "id": 37678,
+        "title": "Berlin Christmas Markets (From Belfast)",
+        "date": "2019-12-01",
+        "duration": 3,
+        "currency": "STG",
+        "countries": [
+            "Germany"
+        ],
+        "status": 2,
+        "note": "<p>Please note that due to extended lead time to departure, flight route, dates and times are subject to change.</p>\r\n\r\n<p>This holiday includes transfers between Belfast (Chichester Street) and Dublin airport in the package price. Should there be insufficient demand on your particular departure date to operate a private coach transfer, the holiday will still go ahead but we will reimburse &pound;25 per person at least 2 weeks prior to your departure date to cover the cost of making your own way to Dublin airport. Should you wish to cancel your booking as a result of this change, the standard cancellation conditions will apply.</p>\r\n",
+        "product_id": 125,
+        "activity_level": 1,
+        "status_description": "Live - Available",
+        "pricing": {
+            "price": 419,
+            "price_reduced": 1,
+            "deposit": 0,
+            "single_room_supplement": 0,
+            "includes_baggage": 0,
+            "late_baggage_fee": 0
+        },
+        "availability": 20,
+        "departure": {
+            "country_code": "UK",
+            "city": "Belfast"
+        },
+        "categories": [
+            "Christmas Market Holidays",
+            "City Break"
+        ],
+        "requirements": {
+            "date_of_birth": 0,
+            "passport_details": 1,
+            "visa": 0
+        }
+    }
+]

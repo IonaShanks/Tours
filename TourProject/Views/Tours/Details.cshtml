@@ -1,0 +1,132 @@
+﻿@model TourProject.Models.Tour
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="color:#ff6666;">@Html.DisplayFor(model => model.Title)</h2>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Duration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Duration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Currency)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Currency)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Product_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Product_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Activity_level)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Activity_level)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status_description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status_description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pricing)
+        </dt>
+
+        <dd>
+            <span style="color:#ff6666;">@Html.DisplayNameFor(model => model.Pricing.Price):</span>
+            @Html.DisplayFor(model => model.Pricing.Price)
+            <br />
+            <span style="color:#ff6666;">@Html.DisplayNameFor(model => model.Pricing.Price_reduced):</span>
+            @Html.DisplayFor(model => model.Pricing.Price_reduced)
+            <br />
+            <span style="color:#ff6666;">@Html.DisplayNameFor(model => model.Pricing.Deposit):</span>
+            @Html.DisplayFor(model => model.Pricing.Deposit)
+            <br />
+            <span style="color:#ff6666;">@Html.DisplayNameFor(model => model.Pricing.Single_room_supplement):</span>
+            @Html.DisplayFor(model => model.Pricing.Single_room_supplement)
+            <br />
+            <span style="color:#ff6666;">@Html.DisplayNameFor(model => model.Pricing.Includes_baggage):</span>
+            @Html.DisplayFor(model => model.Pricing.Includes_baggage)
+            <br />
+            <span style="color:#ff6666;">@Html.DisplayNameFor(model => model.Pricing.Late_baggage_fee):</span>
+            @Html.DisplayFor(model => model.Pricing.Late_baggage_fee)
+</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Availability)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Availability)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Departure)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departure.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Requirements)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Requirements)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,94 @@
+﻿@model IEnumerable<TourProject.Models.Tour>
+@using TourProject.Controllers;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+
+@using (Html.BeginForm("Index", "Tours", FormMethod.Get))
+
+{
+    <hr />
+    <h3> Search: </h3>
+    <div class="row">
+
+        <div class="col-md-12">
+
+            <div class="form-group, col-md-4">
+                <label class="control-label" for="inputDefault">Departing From:</label>
+                @Html.DropDownList("city", (SelectList)ViewBag.city, "All", new { @class = "form-control" })
+            </div>
+
+            @*<div class="form-group, col-md-4">
+                <label class="control-label" for="inputDefault">Travelling To:</label>
+                @Html.DropDownList("country", (SelectList)ViewBag.country, "All", new { @class = "form-control" })
+            </div>*@
+
+            <div class="form-group, col-md-4">
+                <label class="control-label" for="inputDefault">Title: </label>
+                @Html.TextBox("searchTitle", "", new { @class = "form-control" })
+            </div>
+
+            <div class="form-group, col-md-4">                
+                <label class="control-label" for="inputDefault">Sort By:</label>
+                @Html.DropDownList("sort", (SelectList)ViewBag.sort, "All", new { @class = "form-control" })
+            </div>
+
+            <div class="col-md-12" style="color: red; margin-top: 1em;">
+                @ViewBag.Invalid
+            </div>
+
+            <div class="form-group, col-md-4">
+                <br />
+
+                <button class="btn btn-primary" type="submit">Search</button>
+                <button class="btn btn-default" onclick="location.href='@Url.Action("Index")';return false;">Clear</button>
+            </div>
+        </div>
+    </div>
+}
+
+    <hr />
+        @ViewBag.Result
+        <hr />
+
+
+@foreach (var item in Model)
+{
+    <div class="col-md-4">
+        <h3>@Html.ActionLink(ToursController.TitleCase(item.Title), "Details", new { id = item.Id })</h3>
+
+        <dl>
+            <dd>
+                @Html.DisplayNameFor(model => model.Duration)
+            </dd>
+            <dt>
+                @Html.DisplayFor(modelItem => item.Duration) Days
+            </dt>
+            <dd>
+                @Html.DisplayNameFor(model => model.Date)
+            </dd>
+            <dt>
+                @Html.DisplayFor(modelItem => item.Date)
+            </dt>
+            <dd>
+                @Html.DisplayNameFor(model => model.Pricing.Price)
+            </dd>
+            <dt>
+                @Html.DisplayFor(modelItem => item.Pricing.Price)
+            </dt>
+            <dd>
+                @Html.DisplayNameFor(model => model.Departure.City)
+            </dd>
+            <dt>
+                @Html.DisplayFor(modelItem => item.Departure.City)
+            </dt>
+        </dl>
+    </div>
+}
+
+
